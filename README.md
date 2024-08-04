@@ -11,11 +11,11 @@ The results are then displayed to the user.
 = Display Results: Show the total marks, average percentage, and the corresponding grade.
 
 # Grade Criteria
-A: 90% and above
-B: 80% - 89%
-C: 70% - 79%
-D: 60% - 69%
-F: Below 60%
+- A: 90% and above
+- B: 80% - 89%
+- C: 70% - 79%
+- D: 60% - 69%
+- F: Below 60%
 
 # Getting Started
 
